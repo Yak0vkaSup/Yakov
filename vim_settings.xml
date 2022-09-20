@@ -2,12 +2,82 @@
   <component name="VimEditorSettings">
     <editor />
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>:</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/test 3/src/com/company/Main.java" timestamp="1569072764203">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="9" column="0" filename="$USER_HOME$/IdeaProjects/test 3/src/com/company/Main.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/test 3/src/com/company/Main.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/IdeaProjects/test 3/src/com/company/Main.java" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="4">
+        <text>{
+
+    }</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>}</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgU3lzdGVtLm91dC5wcmludCAoIkkgaXMgbm90IDIzNCIpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICB9IGVsc2UK</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ZmxvYXQgbnVtXzEgPSAyMy42N2YsIG51bV8yID0gNDMuNGYsIHJlczsKICAgICAgcmVzID0gbnVtXzEgKyBudW1fMjsKICAgICAgcmVzICs9IDQ1ZjsKICAgICAgU3lzdGVtLm91dC5wcmludCAocmVzKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICBTY2FubmVyIG51bSA9IG5ldyBTY2FubmVyIChTeXN0ZW0uaW4pOwogICAgICAgIGludCBpOwogICAgICAgIGkgPSBudW0ubmV4dEludCgpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnQgKCJNeSB2YXJpYWJsZSBpczogIiArIGkpOw==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IAoKICAgICAgIFN5c3RlbS5vdXQucHJpbnQgKCJWYXJpYWJsZSA9ICIgKyBudW0pOwo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIGJ5dGUgbnVtID0gMjsKICAgICAgIGludCBpID0gMjM0NTY7CiAgICAgICBsb25nIGwgPSA0MzQ5Njg0OTsKCiAgICAgICBmbG9hdCBudW1fMiA9IDM0Ni41NmY7CiAgICAgICBkb3VibGUgbnVtXzM7CiAgICAgICBudW1fMyA9IDU0NTQuNjc4ZjsKCiAgICAgICBjaGFyIHN5bSA9ICdBJzsKCiAgICAgICBib29sZWFuIGlzX2hhcHB5ID0gZmFsc2U7CgogICAgICAgU3RyaW5nIHN0ciA9ICJIZWxsbyB3b3JsZCI7CgogICAgICAg</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>}</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
   </component>
   <component name="VimSettings">
     <state version="6" enabled="false" />
